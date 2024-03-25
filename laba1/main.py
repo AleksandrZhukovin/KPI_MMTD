@@ -77,4 +77,3 @@ for i in range(5):
 R_obr = R.T
 
 print('Доповнення:', R_dop, "Оберенене відношення: ", R_obr, sep='\n')
-
